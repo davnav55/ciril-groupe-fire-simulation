@@ -1,0 +1,9 @@
+{
+  "width": 10,
+  "height": 10,
+  "propagationProbability": 0.6,
+  "initialFires": [
+    { "x": 5, "y": 5 },
+    { "x": 2, "y": 3 }
+  ]
+}

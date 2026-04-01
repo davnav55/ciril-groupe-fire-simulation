@@ -9,7 +9,6 @@ import java.util.List;
  * toute erreur de configuration au démarrage du programme,
  * plutôt qu'en cours de simulation.</p>
  *
- * <p>Cette classe est immuable : une fois construite, ses valeurs ne peuvent plus être modifiées.</p>
  */
 public class SimulationConfig {
 
